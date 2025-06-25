@@ -7,7 +7,7 @@ Chương trình viết bằng C++, giao diện dòng lệnh cho phép:
 - Đăng ký & đăng nhập tài khoản
 - Quản lý thông tin người dùng
 - Giao dịch ví điểm giữa các người dùng
-  # Thành viên nhóm
+# Thành viên nhóm
 | Họ và tên            | Mã sinh viên  | Nhiệm vụ                               |
 |----------------------|---------------|----------------------------------------|
 | Đậu Thị Tuyết Anh    | K25DTCN275    | Viết tài liệu, quản lý git  , tạo mới tài khoản           |
