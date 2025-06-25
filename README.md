@@ -8,10 +8,10 @@ Chương trình viết bằng C++, giao diện dòng lệnh cho phép:
   # Thành viên nhóm
 | Họ và tên            | Mã sinh viên  | Nhiệm vụ                               |
 |----------------------|---------------|----------------------------------------|
-| Đậu Thị Tuyết Anh    | K25DTCN275    | Viết tài liệu, quản lý git             |
-| Lưu Thanh Hùng       |               | Phân chia chức năng người dùng         |
-| Đặng Đình Thuận      |               | OTP xác thực, quản lý hoạt động ví     |
-| Nguyễn Minh Quân     |               | Đăng kí, đăng nhập tài khoản           |
+| Đậu Thị Tuyết Anh    | K25DTCN275    | Viết tài liệu, quản lý git  , tạo mới tài khoản           |
+| Lưu Thanh Hùng       |               | Quản lý đăng nhập, OTP xác thực        |
+| Đặng Đình Thuận      |               | Quản lý hoạt động ví 
+| Nguyễn Minh Quân     |               | Phân chia người dùng và chức năng       |
 ## Phân tích và Đặc tả chức năng
 ### 1. Người dùng
 - Đăng ký tài khoản mới (userID, mật khẩu, thông tin cá nhân)
